@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Math
-%define	pnam	ES
+%define		pdir	Math
+%define		pnam	ES
 Summary:	Math::ES - Evolution Strategy Optimizer
 Summary(pl):	Math::ES - optymalizacja z u¿yciem algorytmu ewolucyjnego
 Name:		perl-Math-ES
