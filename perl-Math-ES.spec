@@ -6,7 +6,7 @@
 %define		pdir	Math
 %define		pnam	ES
 Summary:	Math::ES - Evolution Strategy Optimizer
-Summary(pl):	Math::ES - optymalizacja z u¿yciem algorytmu ewolucyjnego
+Summary(pl.UTF-8):   Math::ES - optymalizacja z uÅ¼yciem algorytmu ewolucyjnego
 Name:		perl-Math-ES
 Version:	0.08
 Release:	1
@@ -26,11 +26,11 @@ The package Math::ES provides an object orientated Evolution Strategy
 elitism, migration, isolation, two selection schemes and self-adapting
 step widths.
 
-%description -l pl
-Pakiet Math::ES udostêpnia obiektowo zorientowany algorytm ewolucyjny
-(ES - Evolution Strategy) do minimalizacji funkcji. Obs³uguje wiele
-populacji, elityzm, migracjê, izolacjê, dwa schematy selekcji oraz
-samoadaptuj±ce siê d³ugo¶ci kroku.
+%description -l pl.UTF-8
+Pakiet Math::ES udostÄ™pnia obiektowo zorientowany algorytm ewolucyjny
+(ES - Evolution Strategy) do minimalizacji funkcji. ObsÅ‚uguje wiele
+populacji, elityzm, migracjÄ™, izolacjÄ™, dwa schematy selekcji oraz
+samoadaptujÄ…ce siÄ™ dÅ‚ugoÅ›ci kroku.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
