@@ -6,7 +6,7 @@
 %define		pdir	Math
 %define		pnam	ES
 Summary:	Math::ES - Evolution Strategy Optimizer
-Summary(pl.UTF-8):   Math::ES - optymalizacja z użyciem algorytmu ewolucyjnego
+Summary(pl.UTF-8):	Math::ES - optymalizacja z użyciem algorytmu ewolucyjnego
 Name:		perl-Math-ES
 Version:	0.08
 Release:	1
