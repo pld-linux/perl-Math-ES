@@ -9,7 +9,7 @@ Summary:	Math::ES - Evolution Strategy Optimizer
 Summary(pl.UTF-8):	Math::ES - optymalizacja z użyciem algorytmu ewolucyjnego
 Name:		perl-Math-ES
 Version:	0.08
-Release:	1
+Release:	2
 License:	Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
