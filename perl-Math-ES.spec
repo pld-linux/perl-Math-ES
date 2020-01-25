@@ -4,7 +4,6 @@
 
 %define		pdir	Math
 %define		pnam	ES
-%include	/usr/lib/rpm/macros.perl
 Summary:	Math::ES - Evolution Strategy Optimizer
 Summary(pl.UTF-8):	Math::ES - optymalizacja z użyciem algorytmu ewolucyjnego
 Name:		perl-Math-ES
